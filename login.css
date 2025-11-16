@@ -1,0 +1,196 @@
+/* General Styles */
+body {
+    background-color: #f8f8f8;
+    background-image: url('bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    font-family: "Arial", sans-serif;
+    min-height: 100vh;
+    position: relative;
+}
+
+/* Dim the background only */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 0;
+}
+
+/* Ensure content stays above dim layer */
+header, main {
+    position: relative;
+    z-index: 1;
+}
+
+/* Header */
+header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 120px;
+    height: auto;
+}
+
+/* Main Content */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 2rem 1rem;
+    box-sizing: border-box;
+}
+
+/* Welcome Image */
+.welcome-image {
+    display: block;
+    max-width: 50%;
+    height: auto;
+    padding-top: 3rem;
+}
+
+@media (max-width: 768px) {
+    .welcome-image {
+        width: 90%;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .welcome-image {
+        width: 95%;
+        margin-top: 1rem;
+        margin-bottom: 1.5rem;
+        max-width: 250%;
+    }
+}
+
+/* Login Box */
+.login-box {
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    border: 2px solid #4F6F64;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+/* Sign-in Button */
+.sign-in {
+    width: 100%;
+    background-color: #4F6F64;
+    color: white;
+    font-size: 1.2rem;
+    padding: 12px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.sign-in:hover {
+    background-color: #3B5349;
+}
+
+/* Terms */
+.terms {
+    font-size: 0.9rem;
+    margin-top: 10px;
+    color: #333;
+}
+
+/* Error Message */
+.error {
+    color: red;
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .logo img {
+        width: 100px;
+    }
+
+    .login-box {
+        padding: 30px 20px;
+        width: 90%;
+        max-width: 400px;
+        margin: 20px auto;
+    }
+
+    label {
+        font-size: 1rem;
+    }
+
+    input,
+    .sign-in {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .login-box {
+        padding: 20px 15px;
+        width: 95%;
+    }
+
+    .logo img {
+        width: 90px;
+    }
+
+    .sign-in {
+        font-size: 1rem;
+        padding: 10px;
+    }
+
+    input {
+        padding: 10px;
+    }
+}
