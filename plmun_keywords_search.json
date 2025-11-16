@@ -1,0 +1,249 @@
+[
+[
+  {
+    "keyword": "Foreword",
+    "content": "This Student Handbook covers the policies, rules and regulations of PLMun..."
+  },
+  {
+    "keyword": "Historical Background",
+    "subsections": [
+      { "keyword": "Founding", "content": "Initiated by Mayor Ignacio Bunye in 1986, MPC was created in 1991." },
+      { "keyword": "Conversion to PLMun", "content": "Converted into Pamantasan ng Lungsod ng Muntinlupa in 2003 via City Ordinance No. 03-089." },
+      { "keyword": "Growth", "content": "Rapid expansion led to new buildings, CHED recognition, and scholarship ordinances." },
+      { "keyword": "Past and Present Administrators", "content": "List of presidents and deans from 1991 to present." }
+    ]
+  },
+  {
+    "keyword": "PLMun Seal",
+    "subsections": [
+      { "keyword": "Torch", "content": "Symbolizes enlightenment through education." },
+      { "keyword": "Bamboo", "content": "Represents resiliency and endurance of students." },
+      { "keyword": "Nine Stars", "content": "Represents nine barangays of Muntinlupa." },
+      { "keyword": "Philippine Flag", "content": "Signifies national identity and nation-building." },
+      { "keyword": "University Color", "content": "Official color is bamboo green." }
+    ]
+  },
+  {
+    "keyword": "Philosophy / Vision / Mission Statement / Goals",
+    "subsections": [
+      { "keyword": "Philosophy", "content": "Promotes intellectual growth, leadership, professionalism, and global competitiveness." },
+      { "keyword": "Vision", "content": "A dynamic and highly competitive HEI committed to people empowerment." },
+      { "keyword": "Mission", "content": "Provide quality, affordable, and relevant education responsive to local and global needs." },
+      { "keyword": "Goals", "content": "Global harmony, ethical professionals, research, equitable access to learning." },
+      { "keyword": "Core Values", "content": "Righteousness, Pride, Ownership, Urgency, Excellence." }
+    ]
+  },
+  {
+    "keyword": "The Organization",
+    "subsections": [
+      { "keyword": "Board of Regents", "content": "Governing body chaired by the Mayor." },
+      { "keyword": "President", "content": "Chief Executive Officer of the University." },
+      { "keyword": "Vice President for Academic Affairs", "content": "Supervises teaching personnel and academic programs." },
+      { "keyword": "Administrative Officer", "content": "Supervises administrative personnel." },
+      { "keyword": "Finance Officer", "content": "Handles budget, finance, and procurement." },
+      { "keyword": "Treasurer", "content": "Safekeeping and releasing of funds." },
+      { "keyword": "Deans", "content": "Supervise teaching personnel and co-curricular activities." },
+      { "keyword": "Registrar", "content": "Keeps student records and enrollment procedures." },
+      { "keyword": "Librarian", "content": "Supervises library operations." },
+      { "keyword": "Security Unit", "content": "Maintains peace, order, and safety." },
+      { "keyword": "CODI", "content": "Investigates disciplinary cases." },
+      { "keyword": "OSA", "content": "Oversees scholarships, guidance, career placement, cultural affairs, sports, student orgs, publications, health services, and community involvement." }
+    ]
+  },
+  {
+    "keyword": "Colleges and Courses Offered",
+    "subsections": [
+      { "keyword": "Graduate Studies", "content": "MBA, MAEd (Educational Management, Guidance & Counseling), Master in Security and Correctional Administration." },
+      { "keyword": "CAS", "content": "BA Mass Communication, BA Political Science, BS Psychology." },
+      { "keyword": "CBA", "content": "BSBA (HRDM, Marketing, Operations), BS Accountancy." },
+      { "keyword": "CCJ", "content": "BS Criminology." },
+      { "keyword": "CITCS", "content": "BS Computer Science, BS IT, Associate in Computer Technology." },
+      { "keyword": "College of Teacher Education", "content": "BEEd (General, ECED, SPED), BSEd (Biological Science, English, Filipino, Math, Social Science, MAPEH)." }
+    ]
+  },
+  {
+    "keyword": "Admission Requirements and Procedure of Enrollment",
+    "subsections": [
+      { "keyword": "Froshies", "content": "Form 137/138, Barangay clearance, voter’s ID, birth certificate, photos, exam, interview." },
+      { "keyword": "Non-Muntinlupa Residents", "content": "Similar to froshies but clearance and voter’s ID optional." },
+      { "keyword": "Returnees", "content": "Clearance form, advising, cashier payment, COM." },
+      { "keyword": "Foreign Students", "content": "Visa, acceptance letter, affidavit of support, passport, birth certificate, English proficiency test, CHED permit, ACR/ICR." },
+      { "keyword": "Graduate Students", "content": "TOR with GPA ≥ 85%, 18 units Education (if non-education graduate), teaching experience, entrance exam, interview." }
+    ]
+  },
+  {
+    "keyword": "Enrollment",
+    "subsections": [
+      { "keyword": "Froshies", "content": "Submit Good Moral Certificate, Birth Certificate, Form 137/138, Drug Test, Barangay Clearance, voter’s ID, photos, medical exam." },
+      { "keyword": "Old Students", "content": "Pre-enrollment slip, advising, cashier payment, COM." },
+      { "keyword": "Transferees", "content": "TOR, Honorable Dismissal, student number, advising, cashier payment, COM." }
+    ]
+  },
+  {
+    "keyword": "Student Academic Load",
+    "subsections": [
+      { "keyword": "Adding Subjects", "content": "Allowed only during enrollment period." },
+      { "keyword": "Dropping Subjects", "content": "Allowed within two weeks after start of classes." },
+      { "keyword": "Authorized Withdrawal", "content": "Allowed three weeks after opening of classes up to one week before midterm." },
+      { "keyword": "Graduating Students", "content": "May add six more units to regular load." },
+      { "keyword": "Summer Term", "content": "Maximum of 9 units for graduating students; also for repeaters, cross-enrollees, and those on leave." }
+    ]
+  },
+  {
+    "keyword": "Withdrawal, Adding and Dropping of a Subject",
+    "subsections": [
+      { "keyword": "Dropping", "content": "Requires official approval; otherwise failing grade." },
+      { "keyword": "Adding", "content": "Maximum of two subjects per semester." },
+      { "keyword": "Transfer", "content": "Requires dean approval and registrar recording." },
+      { "keyword": "Substitution", "content": "Allowed only if curriculum changes." }
+    ]
+  },
+  {
+    "keyword": "Classification of Students",
+    "subsections": [
+      { "keyword": "Regular", "content": "Carries full academic load." },
+      { "keyword": "Irregular", "content": "Carries less than full academic load." },
+      { "keyword": "Working", "content": "Reduced load due to employment." }
+    ]
+  },
+  {
+    "keyword": "Fees and Payments",
+    "subsections": [
+      { "keyword": "Payment Deadline", "content": "10 working days after encoding." },
+      { "keyword": "Refund Policy", "content": "70% within first week, 50% within second week." }
+    ]
+  },
+  {
+    "keyword": "Scholarships and Financial Aid",
+    "subsections": [
+      { "keyword": "Iskolar ng Bayan", "content": "Ordinance No. 98-008 provides scholarships for indigent students." },
+      { "keyword": "Expanded Assistance", "content": "Ordinance No. 13-010 increased financial incentives." }
+    ]
+  },
+  {
+    "keyword": "Attendance",
+    "subsections": [
+      { "keyword": "Regular Attendance", "content": "Required for all classes." },
+      { "keyword": "Excessive Absences", "content": "May result in failure or disciplinary action." }
+    ]
+  },
+  [
+  {
+    "keyword": "Retention Policies",
+    "subsections": [
+      { "keyword": "Academic Standards", "content": "Students must meet GPA and subject requirements to continue enrollment." },
+      { "keyword": "Dismissal", "content": "Failure to meet retention requirements may lead to dismissal." }
+    ]
+  },
+  {
+    "keyword": "Leave of Absence (LOA) and Honorable Dismissal",
+    "subsections": [
+      { "keyword": "Leave of Absence", "content": "Students may file for LOA with proper documentation." },
+      { "keyword": "Honorable Dismissal", "content": "Requires clearance from the Registrar." }
+    ]
+  },
+  {
+    "keyword": "Examinations/Removal of Incomplete Grades",
+    "subsections": [
+      { "keyword": "Examinations", "content": "Scheduled per academic calendar." },
+      { "keyword": "Removal of Incomplete", "content": "Incomplete grades must be removed within one year." }
+    ]
+  },
+  {
+    "keyword": "Graduation Requirements, Honors, and Awards",
+    "subsections": [
+      { "keyword": "Graduation Requirements", "content": "Complete prescribed units, pass all subjects, meet GPA requirements." },
+      { "keyword": "Honors", "content": "Based on academic excellence and GPA thresholds." },
+      { "keyword": "Awards", "content": "Given for leadership, service, and special achievements." }
+    ]
+  },
+  {
+    "keyword": "University Disciplinary Measures",
+    "subsections": [
+      { "keyword": "Minor Offenses", "content": "Warnings or reprimands for small violations." },
+      { "keyword": "Major Offenses", "content": "Suspension or dismissal for serious violations." },
+      { "keyword": "Process", "content": "CODI investigates, results forwarded to President for action." }
+    ]
+  },
+  {
+    "keyword": "Prefect of Discipline, Complaints and Grievances",
+    "subsections": [
+      { "keyword": "Prefect of Discipline", "content": "Implements rules and regulations governing student behavior." },
+      { "keyword": "Complaints", "content": "Students may file complaints through proper channels." },
+      { "keyword": "Grievances", "content": "Handled fairly with investigation and resolution." }
+    ]
+  },
+  {
+    "keyword": "Learning Resource Center (Library)",
+    "subsections": [
+      { "keyword": "Library Services", "content": "Provides books, multimedia, and research materials." },
+      { "keyword": "Supervision", "content": "University Librarian manages operations and improvements." }
+    ]
+  },
+  {
+    "keyword": "Student Service and Facilities",
+    "subsections": [
+      { "keyword": "Health Services", "content": "Primary healthcare and wellness programs." },
+      { "keyword": "Food Services", "content": "Monitoring of safe and healthful food." },
+      { "keyword": "Sports and Athletics", "content": "Programs for physical fitness and wellness." },
+      { "keyword": "Cultural Affairs", "content": "Activities for appreciation and preservation of culture." },
+      { "keyword": "Safety and Security", "content": "Provision of safe and secure environment." }
+    ]
+  },
+  {
+    "keyword": "Student Rights, Duties and Responsibilities",
+    "subsections": [
+      { "keyword": "Rights", "content": "Right to quality education, freedom of expression, participation in governance." },
+      { "keyword": "Duties", "content": "Respect rules, uphold integrity, attend classes." },
+      { "keyword": "Responsibilities", "content": "Contribute to community, maintain discipline, protect university property." }
+    ]
+  },
+  {
+    "keyword": "Student Organizations",
+    "subsections": [
+      { "keyword": "Recognition", "content": "Organizations must be recognized by OSA." },
+      { "keyword": "University Student Council", "content": "Represents the student body officially." }
+    ]
+  },
+  {
+    "keyword": "Policies and Guidelines of the Student Publication",
+    "subsections": [
+      { "keyword": "Press Freedom", "content": "Upholds freedom of expression within bounds of University mission." },
+      { "keyword": "Skill Development", "content": "Enhances student writing and journalism skills." }
+    ]
+  },
+  {
+    "keyword": "Co-Curricular and Extra Curricular Activities",
+    "subsections": [
+      { "keyword": "Sports", "content": "Athletic programs for fitness and competition." },
+      { "keyword": "Culture", "content": "Cultural events and performances." },
+      { "keyword": "Community Involvement", "content": "Projects for shared responsibility." }
+    ]
+  },
+  {
+    "keyword": "Collection of Fees and Fund Raising Activities",
+    "subsections": [
+      { "keyword": "Fundraising Approval", "content": "Must be approved by the University." },
+      { "keyword": "Fee Collection", "content": "Follows official guidelines." }
+    ]
+  },
+  {
+    "keyword": "National Anthem, Panunumpa sa Watawat, Muntinlupa March, PLMun Hymn",
+    "subsections": [
+      { "keyword": "National Anthem", "content": "Students must participate in singing the national anthem." },
+      { "keyword": "Panunumpa sa Watawat", "content": "Students pledge allegiance to the flag." },
+      { "keyword": "Muntinlupa March", "content": "Official city anthem." },
+      { "keyword": "PLMun Hymn", "content": "University hymn sung at official events." }
+    ]
+  },
+  {
+    "keyword": "Other Important Matters",
+    "content": "Additional policies and guidelines may be issued by the Board of Regents."
+  },
+  {
+    "keyword": "Pledge of Allegiance",
+    "content": "Students pledge allegiance to the University, committing to uphold its vision, mission, and values."
+  }
+]
+]
+]
